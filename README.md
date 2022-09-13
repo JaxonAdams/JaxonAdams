@@ -12,7 +12,7 @@
     </a>
   </div>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/96997462/166311584-330afcd0-a34c-49c3-91c7-b39246a3cba1.jpg" alt="A picture of me!" style="width:400px" />
+    <img src="https://user-images.githubusercontent.com/96997462/190019302-6e1e42fd-1475-412c-b496-4ba34d838099.jpg" alt="A picture of me!" style="width:400px" />
   </div>
 </div>
 
@@ -22,8 +22,7 @@
 I am a full stack developer from Eagle Mountain, Utah. Known for being quality driven and passionate about finding fast, efficient solutions to problems, I am a great asset to any team!
 
  - I am always learning new technologies and languages to improve my diverse skillset!
- - I spend a lot of time working on my [portfolio](https://jaxonadams.github.io/portfolio)!
- - Check out my [blog](https://jaxon-tech-blog.herokuapp.com) to see what else I'm up to!
+ - You can view my various projects in my [portfolio](https://jaxonadams.github.io/portfolio)!
  - You can reach me through my [email](mailto:jadamsresume1@gmail.com) or text me at 801-310-2653
 
 ---
