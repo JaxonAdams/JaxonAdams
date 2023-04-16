@@ -19,7 +19,7 @@
 ---
 
 ## About Me
-I am a full stack developer from Eagle Mountain, Utah. I currently work at LoanPro as an Application Configuration Specialist. Known for being quality driven and passionate about finding fast, efficient solutions to problems, I am a great asset to any team!
+I am a full stack developer from Eagle Mountain, Utah. I currently work at LoanPro as a Technical Account Manager. Known for being quality driven and passionate about finding fast, efficient solutions to problems, I am a great asset to any team!
 
  - I am always learning new technologies and languages to improve my diverse skillset!
  - You can view my various projects in my [portfolio](https://jaxonadams.github.io/portfolio)!
