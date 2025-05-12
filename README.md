@@ -12,14 +12,16 @@
     </a>
   </div>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/96997462/224875593-9d38da9f-87e3-43f6-b22b-83aa981a0de1.jpg" alt="A picture of me!" style="width:400px" />
+    <img src="https://github.com/user-attachments/assets/1ed59c2e-5e54-4377-9de8-a833e7fa2558" alt="A picture of me!" style="width:400px" />
   </div>
 </div>
+
+
 
 ---
 
 ## About Me
-I am a software engineer from Eagle Mountain, Utah. I currently work at LoanPro, where I specialize in backend and infrastructure. Known for being quality driven and passionate about finding fast, efficient solutions to problems, I am a great asset to any team!
+I am a software engineer from Eagle Mountain, Utah. I currently work at LoanPro, where I specialize in backend and infrastructure. Known for being quality-driven and passionate about finding fast, efficient solutions to problems, I am a great asset to any team!
 
  - I am always learning new technologies and languages to improve my diverse skillset!
  - You can view my various projects in my [portfolio](https://jaxon-adams.onrender.com/)!
@@ -28,8 +30,4 @@ I am a software engineer from Eagle Mountain, Utah. I currently work at LoanPro,
 ---
 
 ## Some Stats...
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaxonAdams&theme=light&background=ffffff)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxonAdams&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-
-
