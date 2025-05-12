@@ -7,9 +7,6 @@
     <a href="https://www.instagram.com/jj_adams01" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-pink?logo=Instagram&logo-color=white&style=for-the-badge" alt="Instagram badge" />
     </a>
-    <a href="https://www.facebook.com/jaxon.adams.5/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-gray?logo=Facebook&logo-color=white&style=for-the-badge" alt="Facebook badge" />
-    </a>
   </div>
   <div align="center">
     <img src="https://github.com/user-attachments/assets/1ed59c2e-5e54-4377-9de8-a833e7fa2558" alt="A picture of me!" style="width:400px" />
