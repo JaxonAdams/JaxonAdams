@@ -20,11 +20,6 @@
 ## About Me
 I am a software engineer from Eagle Mountain, Utah. I currently work at LoanPro, where I specialize in backend and infrastructure. Known for being quality-driven and passionate about finding fast, efficient solutions to problems, I am a great asset to any team!
 
- - I am always learning new technologies and languages to improve my diverse skillset!
- - You can view my various projects in my [portfolio](https://jaxon-adams.onrender.com/)!
- - You can reach me through my [email](mailto:jadamsresume1@gmail.com)
-
----
-
-## Some Stats...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxonAdams&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+ - I am always learning new technologies and languages to improve my diverse skillset. 
+ - You can view my various projects in my [portfolio](https://jaxon-adams.onrender.com/). 
+ - You can reach me through my [email](mailto:jadamsresume1@gmail.com). 
